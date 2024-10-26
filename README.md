@@ -18,16 +18,9 @@ Image Storage: Images can be temporarily stored in a local directory or served d
 Error Handling: Manages exceptions, such as access restrictions or no results found for a search term.
 
 **3. Application Structure**
-flask_image_scraper/
-│
-├── app.py                    # Main application file
-├── requirements.txt          # List of dependencies
-├── static/
-│   └── images/               # Folder to store scraped images
-├── templates/
-│   ├── index.html            # Main page for user input
-│   ├── results.html          # Page to display scraped images
-└── README.md                 # Documentation
+
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/738e6b2e-e84f-4629-a962-91665f0e80d0">
+
 
 
 **4. Building the Flask Image Scraper** 
